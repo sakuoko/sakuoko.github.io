@@ -12,8 +12,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Certifications"
-    url: /certificates/
+  #- title: "Certifications"
+  #  url: /certificates/
     
   - title: "Publications"
     url: /publications/
