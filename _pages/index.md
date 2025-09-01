@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 <img src="/assets/images/Nora.JPG" width="340px" alt="Nora Loose" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<p><b>6.431x: Probability - The Natural Environment<b></p>
 
 # About
 
