@@ -1,10 +1,10 @@
 ---
-layout: profiles
-title: Certifications
-permalink: /certifications/
-description: Some valuable certificates that I earned through my consistent hard work and dedication.
-nav: true
-nav_order: 6
+title: "Certifications"
+layout: archive
+sitemap: true
+permalink: /certificates/
+author_profile: true
+---
 
 
 profiles:
@@ -137,18 +137,3 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><b>Speak English Professionally: In Person, Online & On the Phone<b></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
