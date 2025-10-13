@@ -13,7 +13,9 @@ toc_sticky: true
 ## Teaching Assistant
 Undergraduate course, University of Mines and Technology | Department of Chemical and Petrochemical Engineering| 2024 <br>
 
-Teaching Assistant for the Computer Programming undergraduate course, instructed by Prof. Suresh Purini. Responsible for preparing coding assigments and labs for 300 students and conducting tutorials and correcting papers for 30 students. 
+Teaching Assistant for the Computer Programming undergraduate course, instructed by Prof. Suresh Purini. Responsible for preparing coding assigments and labs for 300 students and conducting tutorials and correcting papers for 30 students. <br>
+course: eda <br>
+level: easy
 
 
 ## Research Mentor
