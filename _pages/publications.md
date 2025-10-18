@@ -22,7 +22,7 @@ author_profile: true
 
 ## Thesis
 
-| <a href="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg"><img src="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg" width="600px" alt=""> | **Loose, N.** (2019). Adjoint Modeling and Observing System Design in the Subpolar North Atlantic, _Ph.D. Dissertation_, University of Bergen, Norway. [http://bora.uib.no/handle/1956/24456](http://bora.uib.no/handle/1956/24456).| <br>
+| <a href="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg"><img src="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg" width="340px" height="300px" alt=""> | **Loose, N.** (2019). Adjoint Modeling and Observing System Design in the Subpolar North Atlantic, _Ph.D. Dissertation_, University of Bergen, Norway. [http://bora.uib.no/handle/1956/24456](http://bora.uib.no/handle/1956/24456).| <br>
 |course: eda| <br>
 Institution: MITx <br>
 Subject: Engineering <br>
