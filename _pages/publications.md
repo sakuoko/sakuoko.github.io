@@ -16,7 +16,7 @@ Some valuable certificates that I earned through my consistent hard work and ded
 
 ## Mathematics for Machine Learning and Data Science Specialisation Certificate
 
-| <a href="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg"><img src="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg" width="600px" height="350px" alt=""> | **Institution:** DeepLearning.AI via Coursera <br>|
-**Associated skills:** Probability & Statistics, Numerical Analysis, Statistical Analysis, Dimensionality Reduction, Mathematical Modeling, Descriptive Statistics, Calculus, Machine Learning, Machine Learning Methods, Data Transformation, Applied Mathematics, Statistical Inference.<br>|
-**Verification:** [Certificate](https://www.coursera.org/account/accomplishments/specialization/F5Q2BCFDPLU8)|
+| <a href="/assets/images/ProdEnerSafe/Energy Production, Distribution & Safety.jpg"><img src="/assets/images/ProdEnerSafe/Energy Production, Distribution & Safety.jpg" width="600px" height="350px" alt=""> | **Institution:** The State University of New York & University at Buffalo via Coursera <br>|
+**Associated skills:** Oil and Gas, Regulatory Affairs, Electric Power Systems, Workforce Development, Hazard Analysis, Electrical Systems, Sustainable, Technologies, Sustainable Development, Electrical Power, Supply Chain, Billing, Safety Standards.<br>|
+**Verification:** [Certificate](https://coursera.org/share/efb7a1cc37320aecebc6ae43b14da467)|
 
