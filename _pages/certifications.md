@@ -2,7 +2,7 @@
 title: "Certifications"
 layout: archive
 sitemap: true
-permalink: /publications/
+permalink: /certifications/
 author_profile: true
 ---
 
@@ -19,6 +19,12 @@ Some valuable certificates that I earned through my consistent hard work and ded
 | <a href="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg"><img src="/assets/images/ML4math/Mathematics for Machine Learning and Data Science.jpg" width="600px" height="350px" alt=""> | **Institution:** DeepLearning.AI via Coursera <br>|
 **Associated skills:** Probability & Statistics, Numerical Analysis, Statistical Analysis, Dimensionality Reduction, Mathematical Modeling, Descriptive Statistics, Calculus, Machine Learning, Machine Learning Methods, Data Transformation, Applied Mathematics, Statistical Inference.<br>|
 **Verification:** [Certificate](https://www.coursera.org/account/accomplishments/specialization/F5Q2BCFDPLU8)|
+
+## IBM Data Science Professional Certificate
+
+| <a href="/assets/images/IBMDS/IBM Data Science Professional Certificate.jpg"><img src="/assets/images/IBMDS/IBM Data Science Professional Certificate.jpg" width="600px" height="350px" alt=""> | **Institution:** IBM via Coursera <br>|
+**Associated skills:** Professional Networking, Data Analysis, Generative AI, Data Manipulation, Supervised Learning, Plotly, Data Literacy, Data Import/Export, Unsupervised Learning, SQL, Data Cleansing, Jupyter.<br>|
+**Verification:** [Certificate](https://coursera.org/share/8e6c49c0020e1f46f805ccfd76856537)|
 
 ##  Energy Production, Distribution & Safety Specialization Certificate
 
