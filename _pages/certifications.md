@@ -8,6 +8,12 @@ author_profile: true
 
 Some valuable certificates that I earned through my consistent hard work and dedication.
 
+## IBM Deep Learning with PyTorch, Keras, Tensorflow with GenAI Professional Certificate
+
+| <a href="/assets/images/IBMDL/IBM Deep Learning with PyTorch, Keras and Tensorflow.jpg"><img src="/assets/images/IBMDL/IBM Deep Learning with PyTorch, Keras and Tensorflow.jpg" width="600px" height="350px" alt=""> | **Institution:** IBM via Coursera <br>|
+**Associated skills:** Probability & Statistics, Image Analysis, Deep Learning, Predictive Modeling, Tensorflow, Network Architecture, Generative AI, Artificial Intelligence, Keras (Neural Network Library), Computer Vision, PyTorch (Machine Learning Library), Artificial Neural Networks.<br>|
+**Verification:** [Certificate](https://coursera.org/share/cda9c7b8cba98b284b591cb78315a136)|
+
 ## Google Data Analytics Professional Certificate
 
 | <a href="/assets/images/GoogleAnalytics/Coursera Google Data Analytics Professional Certificate.jpg"><img src="/assets/images/GoogleAnalytics/Coursera Google Data Analytics Professional Certificate.jpg" width="600px" height="350px" alt=""> | **Institution:** Google via Coursera <br>|
