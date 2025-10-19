@@ -6,7 +6,7 @@ permalink: /certifications/
 author_profile: true
 ---
 
-Some valuable certificates that I earned through my consistent hard work and dedication.
+I have earned a number of valuable certifications that highlight my consistent hard work, dedication, and eagerness to grow both academically and professionally. Each certification reflects not only my commitment to continuous learning but also my determination to acquire practical skills and knowledge that strengthen my expertise and broaden my career opportunities.
 
 ## Understanding Research Methods
 
