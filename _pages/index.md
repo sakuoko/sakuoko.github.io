@@ -13,6 +13,6 @@ Welcome to my personal website! Here you can find a bit about my research, the p
 
 I recently completed a summer internship with [Envirofit International](https://envirofit.org/), a global R&D leader in clean cooking technologies designed to cook faster while reducing fuel use, smoke, and toxic emissions. At Envirofit, I contributed to projects aimed at improving efficiency, reducing waste, and scaling up production processes.
 
-Before joining UMaT, I earned my Bachelor of Science (Hons) in Petrochemical Engineering from the [Kwame Nkrumah University of Science and Technology](https://chemeng.knust.edu.gh/) (KNUST). For my final-year thesis, under the guidance of Dr. Emmanuel Godwin Ankudey, I worked on the “Plant Design for the Production of Ammonia from Isopentane,” where I developed process simulations using Aspen PLUS and carried out economic analyses in Excel.
+Before joining UMaT, I earned my Bachelor of Science (Hons) in Petrochemical Engineering from the [Kwame Nkrumah University of Science and Technology](https://chemeng.knust.edu.gh/) (KNUST) where I collaborated with a team of Petrochemical Engineering students as part of my final year design project as we investigated how Ammonia can be synthesised from Isopentane, an industrial waste released by the Ghana National Gas Company under the supervision of Dr. Emmanuel Godwin Ankudey.
 
 In my life outside of research, I enjoy watching football with friends, biking, and listening to music.
