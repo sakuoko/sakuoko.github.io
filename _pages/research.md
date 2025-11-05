@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: "Projects"
 layout: single
 sitemap: true
 permalink: /research/
 author_profile: true
 toc: true
-toc_label: "Research"
+toc_label: "Projects"
 toc_icon: "gear"
 toc_sticky: true
 ---
