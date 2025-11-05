@@ -28,7 +28,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 
 In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
 
-## Integrating Machine Learning and Ocean Modeling
+## Development of Soft Sensor for Bottom Composition in Distillation Column
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
@@ -89,7 +89,7 @@ Related publications:
  [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
-## Uncertainty Quantification & Observing System Design
+## Plant Design for the Production of Ammonia from Isopentane
 
 <figure>
   <img src="/assets/images/QND.png" alt="">
