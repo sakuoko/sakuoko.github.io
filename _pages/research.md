@@ -12,7 +12,7 @@ toc_sticky: true
 
 My work centres on the intersection of chemical engineering and advanced computational techniques, enabling me to optimize systems, reduce inefficiencies, and improve overall productivity. I am continuously seeking new opportunities to integrate cutting-edge technology into chemical engineering for impactful results. Current and past research projects include:
 - Regional coupled physical-biogeochemical modeling
-- Integrating machine learning and ocean modeling
+- Development of Soft Sensor for Bottom Composition in Distillation Column
 - Ocean mesoscale eddies and their parameterizations
 - Adjoint modeling in the North Atlantic
 - Plant Design for the Production of Ammonia from Isopentane
