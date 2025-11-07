@@ -60,7 +60,7 @@ Right: A schematic of the ocean energy cycle.
 
 In this study project, I applied Transfer Learning using a pre-trained model(VGG16) and fine-tuning to classify different types of waste products into organic and recyclable through the use of deep learning (DL) and convolutional neural networks (CNNs). This project aimed to automate waste sorting for improved recycling efficiency and environmental impacts. At the end of the project, I was able to develop a trained model that classifies wastes images into the different categories with a model accuracy(validation) of over 92%. Comparing the of plots a&b to plots c&d, it can be deduced that the model performance increased after the fine tuning.
 
-A detailed workflow of the whole process can be accessed via here [LINK]. This project was crucial to me as I earned an IBM Deep Learning with Pytorch, Keras, and Tensorflow with GenAI Professional Certificate [link](https://coursera.org/verify/professional-cert/WY9XFIXH3K23)
+A detailed workflow of the whole process can be accessed via [here](https://github.com/sakuoko/Classification-of-Waste-Products-Using-Transfer-Learning/blob/main/Final%20Proj-Classify%20Waste%20Products%20Using%20TL%20FT.ipynb). This project was crucial to me as I earned an IBM Deep Learning with Pytorch, Keras, and Tensorflow with GenAI Professional Certificate [link](https://coursera.org/verify/professional-cert/WY9XFIXH3K23)
 
 ## Adjoint Modeling in the North Atlantic
 
