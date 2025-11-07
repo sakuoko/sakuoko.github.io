@@ -52,9 +52,8 @@ Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose
 ## Classification of Waste Products Using Transfer Learning
 
 <figure>
-  <img src="/assets/images/KE.png" width="1000px" alt="">
-  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I used for studying the ocean energy cycle.
-Right: A schematic of the ocean energy cycle.
+  <img src="/assets/images/Projects/Evaluation plots of the model developed.jpg" width="1000px" alt="">
+  <figcaption> Evaluation performance plots
 </figcaption>
 </figure>
 
