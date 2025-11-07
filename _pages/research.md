@@ -59,7 +59,7 @@ Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose
 
 In this study project, I applied Transfer Learning using a pre-trained model(VGG16) and fine-tuning to classify different types of waste products into organic and recyclable through the use of deep learning (DL) and convolutional neural networks (CNNs). This project aimed to automate waste sorting for improved recycling efficiency and environmental impacts. At the end of the project, I was able to develop a trained model that classifies wastes images into the different categories with a model accuracy(validation) of over 92%. Comparing the of plots a&b to plots c&d, it can be deduced that the model performance increased after the fine tuning.
 
-A detailed workflow of the whole process can be accessed via [here](https://github.com/sakuoko/Classification-of-Waste-Products-Using-Transfer-Learning/blob/main/Final%20Proj-Classify%20Waste%20Products%20Using%20TL%20FT.ipynb). This project was crucial to me as I earned an IBM Deep Learning with Pytorch, Keras, and Tensorflow with GenAI Professional Certificate [link](https://coursera.org/verify/professional-cert/WY9XFIXH3K23)
+A detailed workflow of the whole process can be accessed via [here](https://github.com/sakuoko/Classification-of-Waste-Products-Using-Transfer-Learning/blob/main/Final%20Proj-Classify%20Waste%20Products%20Using%20TL%20FT.ipynb). This project was crucial to me as I earned an IBM Deep Learning with Pytorch, Keras, and Tensorflow with GenAI Professional Certificate [link](https://coursera.org/verify/professional-cert/WY9XFIXH3K23).
 
 ## Adjoint Modeling in the North Atlantic
 
@@ -82,21 +82,17 @@ Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 ## Plant Design for the Production of Ammonia from Isopentane
 
 <figure>
-  <img src="/assets/images/QND.png" alt="">
+  <img src="/assets/images/Projects/Project summary.jpg" alt="">
   <figcaption> 
-The Global Ocean Observing System (GOOS) consists of an eclectic mix of satellite and in-situ platforms. Designing optimal observing strategies that account for complementarity and redundancy of observational assets is an unsolved scientific and computational challenge.
+Process summary and my contriutions to the design project
 </figcaption>
 </figure>
 
-Ocean observing systems are expensive to build and maintain, and therefore have to be designed carefully. Important questions to consider include:
-- What dynamical information is contained in already existing observation networks? 
-- What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
+Ammonia, which finds several uses in the fields of agriculture, health, textiles, hydrogen storage, energy, and many more, is one of the most successful chemicals to be discovered. From Ghana National Gas Company Limited (GNGC), an effluent gas, an Isopentane known for its potential use as an energy source, is being flared into the environment regardless of its negative impacts it may have on the community years to come. To tackle this, a 7 member group, including myself, was tasked to investigate the possibility of transforming the flared gas into a useful chemical, ammonia. Several known ammonia synthesis processes were looked at. We made selections of a combination of technologies that can contribute to a higher yield of ammonia while minimising carbon emissions.
 
-To tackle these questions, I performed quantitative observing system design, through a combination of Bayesian inverse methods and uncertainty quantification in a data assimilation framework. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
+My main contributions to the project were the design of a process flow diagram (PDF) using Visio, the development of the simulation of the processes using Aspen PLUS, while utilising its optimisation tools to optimize the process for a better yield and integrating it to Excel for economic analysis of the plant. I then designed a Methanator, a reactor that serves to convert the carbon dioxide produced into methane and water for recycling and finally using AutoCAD to help with the mechanical design of the reactor. This project culminated into my final year research project (undergraduate thesis) under the guidance of Dr. Emmanuel Godwin Ankudey. This project not only built my computational confidence but also enhanced my presentation, communication, collaboration, and review of articles skills. 
 
-Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
-[Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
-[Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
+The project report and PowerPoint presentations can be accessed [here](https://github.com/sakuoko/Plant-Design-for-the-Production-of-Ammonia-from-Isopentane).
 
 ## Development of Open Source Software Tools
 
