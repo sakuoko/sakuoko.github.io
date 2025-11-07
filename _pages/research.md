@@ -10,10 +10,10 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My work centres on the intersection of chemical engineering and advanced computational techniques, enabling me to optimize systems, reduce inefficiencies, and improve overall productivity. I am continuously seeking new opportunities to integrate cutting-edge technology into chemical engineering for impactful results. Current and past research projects include:
+My work centres on the intersection of chemical engineering and advanced computational techniques, enabling me to optimize systems, reduce inefficiencies, and improve overall productivity. I am continuously seeking new opportunities to integrate cutting-edge technology into chemical engineering for impactful results. Current and past research projects include; the list is unordered and does not reflect project popularity or chronological order.
 - Regional coupled physical-biogeochemical modeling
 - Development of Soft Sensor for Bottom Composition in Distillation Column
-- Ocean mesoscale eddies and their parameterizations
+- Classification of Waste Products Using Transfer Learning
 - Adjoint modeling in the North Atlantic
 - Plant Design for the Production of Ammonia from Isopentane
 - Development of open source software tools
@@ -49,7 +49,7 @@ As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise stud
 Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
 [Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
 
-## Ocean Mesoscale Eddies and their Parameterizations
+## Classification of Waste Products Using Transfer Learning
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
@@ -58,18 +58,9 @@ Right: A schematic of the ocean energy cycle.
 </figcaption>
 </figure>
 
-Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
-Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
+In this study project, I applied Transfer Learning using a pre-trained model(VGG16) and fine-tuning to classify different types of waste products into organic and recyclable through the use of deep learning (DL) and convolutional neural networks (CNNs). This project aimed to automate waste sorting for improved recycling efficiency and environmental impacts. At the end of the project, I was able to develop a trained model that classifies wastes images into the different categories with a model accuracy(validation) of over 92%. Comparing the of plots a&b to plots c&d, it can be deduced that the model performance increased after the fine tuning.
 
-My research focused on the energy cycle of the ocean mesoscale eddy field: its generation, its interaction with the large-scale flow, and its dissipation. 
-To investigate this cycle, I used high-resolution ocean models, aiming to improve the representation of mesoscale processes in global ocean models.
-
-Additionally, I studied, implemented, and compared different mesoscale eddy parameterizations—specifically, Gent & Williams (1990) and Greatbatch & Lamb (1990)—from both theoretical and numerical modeling perspectives. 
-My research explored how these parameterizations interact with the ocean model's vertical coordinate system, providing insights into the consistency between theoretical frameworks and numerical implementations.
-
-Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
-[Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
-[Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
+A detailed workflow of the whole process can be accessed via here [LINK]. This project was crucial to me as I earned an IBM Deep Learning with Pytorch, Keras, and Tensorflow with GenAI Professional Certificate [link](https://coursera.org/verify/professional-cert/WY9XFIXH3K23)
 
 ## Adjoint Modeling in the North Atlantic
 
