@@ -16,7 +16,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 - Classification of Waste Products Using Transfer Learning
 - Constrained Optimization of a Heat Exchanger using Python (SciPy)
 - Plant Design for the Production of Ammonia from Isopentane
-- Development of open source software tools
+- Data-Driven Modeling and Parameter Optimization for Reactor Design
 
 ## Regional Coupled Physical-Biogeochemical Modeling
 
@@ -91,7 +91,7 @@ My main contributions to the project were the design of a process flow diagram (
 
 The project report and PowerPoint presentations can be accessed [here](https://github.com/sakuoko/Plant-Design-for-the-Production-of-Ammonia-from-Isopentane).
 
-## Development of Open Source Software Tools
+## Data-Driven Modeling and Parameter Optimization for Reactor Design
 
 I am engaged with developing open-source software tools in Python and Julia to enable our Earth Science community to perform data analysis and modeling in an efficient and reproducible way. 
 I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
