@@ -11,14 +11,14 @@ toc_sticky: true
 ---
 
 My work centres on the intersection of chemical engineering and advanced computational techniques, enabling me to optimize systems, reduce inefficiencies, and improve overall productivity. I am continuously seeking new opportunities to integrate cutting-edge technology into chemical engineering for impactful results. Current and past research projects include; the list is unordered and does not reflect project popularity or chronological order.
-- Regional coupled physical-biogeochemical modeling
+- Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 - Development of Soft Sensor for Bottom Composition in Distillation Column
 - Classification of Waste Products Using Transfer Learning
 - Constrained Optimization of a Heat Exchanger using Python (SciPy)
 - Plant Design for the Production of Ammonia from Isopentane
 - Data-Driven Modeling and Parameter Optimization for Reactor Design
 
-## Regional Coupled Physical-Biogeochemical Modeling
+## Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 
 <figure>
   <img src="/assets/images/antitracer.png" width="1000px" alt="">
@@ -26,7 +26,18 @@ My work centres on the intersection of chemical engineering and advanced computa
 </figcaption>
 </figure>
 
-In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
+This is a chapter in the book **Amino Acids Applications in the Geoenergy Industry** that discusses the role of amino acids as alternative green additives in the geoenergy and related carbon sequestration industry under the guidance of Dr. Cornelius Borecho Bavoh and Dr. Ato Fanyin-Martin at the Department of Chemical and Petrochemical Engineering at UMaT. Furthermore, the main challenges involved in the use of amino acids in the geoenergy industries are discussed.
+* Discusses mechanisms of relevant amino acids and their possible commercialization in the oil and gas industry
+* Addresses properties of amino acids that promises their use in green oil and gas chemistry
+* Provides knowledge of the use of amino acids in several aspects of the geoenergy industry
+* Clarifies the benefits and drawbacks of using amino acids in the oil and gas industry
+* Provides real-world case studies on the use of amino acids in the oil and gas industry
+
+Below is the abstract of my chapter:
+**ABSTRACT**
+This paper explores the application of amino acids in three critical industrial processes: hydration suppression in drilling, hydraulic fracturing, and corrosion inhibition. Amino acids offer promising solutions for improving wellbore stability, enhancing fluid performance, and reducing environmental impact across diverse industrial applications. In drilling operations, amino acids act as effective hydration suppressants, limiting clay swelling and improving mud formulation flexibility. In hydraulic fracturing, amino acid-based friction reducers enhance fracture propagation and increase hydrocarbon recovery rates, particularly in low-permeability gas reservoirs with high clay content. Additionally, amino acids serve as environmentally friendly corrosion inhibitors, replacing traditional hazardous compounds and ensuring regulatory compliance. Through collaborative efforts between academia, industry, and regulatory bodies, the widespread adoption of amino acids can advance sustainability and efficiency in industrial processes.
+
+Related publications: Akuoko, S., Fanyin-Martin, A., (2025), Case Studies on the Use of Amino Acids in the Geo-Energy Industry, In C.B. Bavoh & K.A. Quainoo (Eds.), Amino Acids Applications in the Geoenergy Industry (pp.172-180). CRC Press. https://doi.org/10.1201/9781003502388
 
 ## Development of Soft Sensor for Bottom Composition in Distillation Column
 
