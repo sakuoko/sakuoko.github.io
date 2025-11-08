@@ -14,7 +14,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 - Regional coupled physical-biogeochemical modeling
 - Development of Soft Sensor for Bottom Composition in Distillation Column
 - Classification of Waste Products Using Transfer Learning
-- Adjoint modeling in the North Atlantic
+- Constrained Optimization of a Heat Exchanger using Python (SciPy)
 - Plant Design for the Production of Ammonia from Isopentane
 - Development of open source software tools
 
@@ -61,23 +61,20 @@ In this study project, I applied Transfer Learning using a pre-trained model(VGG
 
 A detailed workflow of the whole process can be accessed via [here](https://github.com/sakuoko/Classification-of-Waste-Products-Using-Transfer-Learning/blob/main/Final%20Proj-Classify%20Waste%20Products%20Using%20TL%20FT.ipynb). This project was crucial to me as I earned an IBM Deep Learning with Pytorch, Keras, and Tensorflow with GenAI Professional Certificate [link](https://coursera.org/verify/professional-cert/WY9XFIXH3K23).
 
-## Adjoint Modeling in the North Atlantic
+## Constrained Optimization of a Heat Exchanger using Python (SciPy)
 
 <figure>
-  <img src="/assets/images/sensitivity_teleconnections.png" alt="">
+  <img src="/assets/images/Projects/Optimization of a Heat Exchanger result.jpg" alt="">
   <figcaption> 
-Left: Near-surface currents that are the mediator of oceanic teleconnections in the North Atlantic.
-Right: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow-black line) months or years later.  
+Optimization of a Heat Exchanger result from the code 
 </figcaption>
 </figure>
 
-The seas around Greenland, Iceland, and Norway transport heat from the North Atlantic toward the Arctic.
-I used adjoint-derived sensitivities in the [ECCO](https://ecco-group.org/) state estimate to identify drivers and locations that affect ocean heat transport in this region. Due to oceanic teleconnections, high-latitude heat transport is sensitive to local and remote(!) wind forcing.
+In this study, I focused on optimization in engineering on improving the design of a heat exchanger. Heat exchangers are used in various industries to transfer heat between two or more fluids efficiently, but how can we design these heat exchangers better? I explored how to balance high performance, low cost, and minimal energy loss. This balance is essential because it can lead to significant savings, reduce energy use, and have a beneficial impact on the environment. I identified some of the various factors that influence the design, such as the size and shape of the heat exchanger, the material used, and the volume of the fluid that flows through it.
 
-Related publications:
-[StoryMap](https://www.ecco-group.org/storymaps.htm?id=43);
- [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
-Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
+Using the optimization package available in SciPy, I was able to achieve optimal values for the outer diameter, wall thickness, flow rate, number of tubes, and an objective function value of -234824.76448735717. This outer diameter dimension influences the overall size and the space it occupies while the wall thickness and the tube thickness ensure the structural integrity of the tubes while influencing the thermal resistance of the tube material. Hence, a balance is needed to ensure the tubes are not too thin or too thick. An optimal value of the flow rate is necessary to ensure that enough fluid passes through the heat exchanger for efficient heat transfer without causing excessive pressure drop or requiring too powerful pump, which would increase operational costs. More tubes can also increase the heat transfer area but might also necessitate a larger shell size, leading to an increase in the complexity of the tube bundle assembly. The objective function value represents the quantitative assessment of the heat exchanger design by the optimization model. The value is the weighted sum of the negative heat transfer rate, the positive pressure drop, and material costs. The negative indicates a stronger performance in maximizing the heat transfer relative to penalties incurred from pressure drop and material costs. A more negative value is preferable as it indicates a higher heat transfer rate and lower undesired costs. This value quantifies the trade-offs made between these factors, where a more negative result suggests a design loser to the ideal balance as defined by the weights in the objective function.
+
+The project code can be located [here](https://github.com/sakuoko/Optimization-of-a-Heat-Exchanger).
 
 ## Plant Design for the Production of Ammonia from Isopentane
 
