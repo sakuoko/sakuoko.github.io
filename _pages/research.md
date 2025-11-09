@@ -98,7 +98,7 @@ The project report and PowerPoint presentations can be accessed [here](https://g
 ## Data-Driven Modeling and Parameter Optimization for Reactor Design
 
 <figure>
-  <img src="/assets/images/Projects/rxn for data modeling.jpg"" alt="">
+  <img src="/assets/images/Projects/rxn for data modeling.jpg" alt="">
   <figcaption> 
 Plot summary of the project
 </figcaption>
