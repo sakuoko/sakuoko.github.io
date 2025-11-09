@@ -21,7 +21,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 ## Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 
 <figure>
-  <img src="/assets/images/Projects/Amino Acids Applications in the Geoenergy Industry.jpeg" width="800px" height="1000px" alt="">
+  <img src="/assets/images/Projects/Amino Acids Applications in the Geoenergy Industry.jpeg" width="350px" height="500px" alt="">
   <figcaption>Book cover of Amino Acids Applications in the Geoenergy Industry
 </figcaption>
 </figure>
