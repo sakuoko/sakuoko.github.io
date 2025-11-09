@@ -21,8 +21,8 @@ My work centres on the intersection of chemical engineering and advanced computa
 ## Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 
 <figure>
-  <img src="/assets/images/antitracer.png" width="1000px" alt="">
-  <figcaption>Tracer release experiment in a global Oceananigans.jl configuration, simulating the enhancement of ocean alkalinity between Thailand and Indonesia.
+  <img src="/assets/images/Projects/Amino Acids Applications in the Geoenergy Industry.jpeg" width="1000px" alt="">
+  <figcaption>Book cover of Amino Acids Applications in the Geoenergy Industry
 </figcaption>
 </figure>
 
