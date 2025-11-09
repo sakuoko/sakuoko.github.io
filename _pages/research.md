@@ -106,26 +106,16 @@ The project report and PowerPoint presentations can be accessed [here](https://g
 
 ## Data-Driven Modeling and Parameter Optimization for Reactor Design
 
-I am engaged with developing open-source software tools in Python and Julia to enable our Earth Science community to perform data analysis and modeling in an efficient and reproducible way. 
-I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
-
 <figure>
-  <img src="/assets/images/roms_grid.png" alt="">
+  <img src="/assets/images/Projects/rxn for data modeling.jpg"" alt="">
   <figcaption> 
-A ROMS grid created with the open-source Python package ROMS-Tools.
+Plot summary of the project
 </figcaption>
 </figure>
-`ROMS-Tools` is a Python package for creating the input files that are necessary to run a ROMS simulation. This includes creating a grid, tidal, boundary, and atmospheric forcings, initial conditions, and more! 
 
-<figure>
-  <img src="/assets/images/filter_intro.png" alt="">
-  <figcaption> 
-Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source Python package GCM-Filters.
-</figcaption>
-</figure>
-`GCM-Filters` is a Python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. 
-Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
+In this project, I demonstrated how to determine the rate at which a secret chemical, A reacts to form another chemical, B, after several experiments in a batch reactor. I did this by collecting concentration data for A at different time intervals. Using Python as the main tool, I successfully settled on two methods, namely: Least Squared Method(LSM) and optimize tool in Scipy. It took me several iterations to get the model of the best fit using  LSM. However, a simple run to get the best model to determine the rate constant, k using Scipy. Through this project, I learned that:
 
-Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
-[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021).
+* Getting the best model that represents your data involves the use of your engineering intuition to identify the most suitable model based on the underlying physics and characteristics of the system.
+* Analyse the data visually to estimate parameters accurately. Selecting appropriate initial parameters can significantly influence the fitting process and improve convergence.
+Check out the code and details [here](https://github.com/sakuoko/Data-Driven-Modeling-and-Parameter-Optimization-for-Reactor-Design)
 
