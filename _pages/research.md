@@ -26,7 +26,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 </figcaption>
 </figure>
 
-This research project forms of chapters in the book "**Amino Acids Applications in the Geoenergy Industry**" that discusses the role of amino acids as alternative green additives in the geoenergy and related carbon sequestration industry under the guidance of Dr. Cornelius Borecho Bavoh and Dr. Ato Fanyin-Martin at the Department of Chemical and Petrochemical Engineering at UMaT. Furthermore, the main challenges involved in the use of amino acids in the geoenergy industries are discussed.
+This research project forms part of the chapters in the book "**Amino Acids Applications in the Geoenergy Industry**" that discusses the role of amino acids as alternative green additives in the geoenergy and related carbon sequestration industry under the guidance of Dr. Cornelius Borecho Bavoh and Dr. Ato Fanyin-Martin at the Department of Chemical and Petrochemical Engineering at UMaT. Furthermore, the main challenges involved in the use of amino acids in the geoenergy industries are discussed.
 * Discusses mechanisms of relevant amino acids and their possible commercialization in the oil and gas industry
 * Addresses properties of amino acids that promises their use in green oil and gas chemistry
 * Provides knowledge of the use of amino acids in several aspects of the geoenergy industry
