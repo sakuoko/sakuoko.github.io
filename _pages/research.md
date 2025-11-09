@@ -44,23 +44,14 @@ Related publications: Akuoko, S., Fanyin-Martin, A., (2025), Case Studies on the
 ## Development of Soft Sensor for Bottom Composition in Distillation Column
 
 <figure>
-  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
-  <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
+  <img src="/assets/images/Projects/Soft Sensor summary.jpg" width="1000px" alt="">
+  <figcaption>An image showig the performance plots of the model used
 </figcaption>
 </figure>
 
-Integrating machine learning (ML) with ocean modeling offers a promising path to improving the accuracy and efficiency of ocean simulations, and plays a central role in emerging hybrid climate modeling approaches that combine physics-based and data-driven components. My work focuses on developing ML-based parameterizations for ocean physical processes, using both offline and online approaches:
+It is often necessary to find the top purity and the bottom product purity of a distillation column. But the problem in the industry is that it is not always possible to put a composition analyzer at the bottom product or at the distillate. Why? This is because analyzers are too costly and not always economically feasible to puta bottom analyzer. This was an industrial challenge I encountered at the Tema Oil Refinery, Ghana, as an intern in 2022. I proposed the use of a function to establish a relationship between the bottom product purity along with the help of column parameters, and then we can deploy the equation into a distributed control system, DCS where a plant operator or engineer can continuously see the analysis. A 3 member team was formed, including myself as the leader, to develop a **Soft Sensor**, which is nothing but an equation relating the bottom product purity with temperatures or other process parameters of the distillation column. With the help of machine learning using MATLAB, we successfully developed a model with a 98% validation accuracy as compared to what is normally done by laboratory analysis with gas chromatography and mass spectrometer. This completely eliminated the over 8 hours spent collecting samples in a day and over 2 hours spent analysing the samples in the laboratory.
 
-* **Offline learning:** ML models are trained on outputs from high-resolution simulations or observational datasets before being incorporated into the ocean model.
-* **Online learning:** ML models are trained dynamically during the simulation itself, requiring the ocean model to be differentiable.
-
-During my work with the [M2LInES Team](https://m2lines.github.io/), I focused on offline approaches to hybrid modeling. I began by diagnosing eddy fluxes from high-resolution MOM6 simulations using filtering and coarse-graining techniques. I then trained ML models on these offline datasets using PyTorch. To evaluate the model’s performance in an online setting, I integrated it into the MOM6 code base. 
-However, offline-learned parameterizations often encounter numerical instability when coupled with the full model, highlighting the potential advantages of online approaches.
-
-As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise students applying online learning techniques to improve ocean eddy parameterizations. In this approach, the machine-learned parameterization is trained alongside the simulation, requiring a differentiable ocean model with an adjoint. We implement this method using the ocean model Oceananigans, and train the ML models in Julia.
-
-Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
-[Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
+The project codes can be located [here](https://github.com/sakuoko/Soft-sensor-development)
 
 ## Classification of Waste Products Using Transfer Learning
 
