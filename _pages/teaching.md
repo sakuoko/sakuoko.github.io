@@ -13,9 +13,20 @@ toc_sticky: true
 ## Teaching Assistant
 Undergraduate course, University of Mines and Technology | Department of Chemical and Petrochemical Engineering| 2024 <br>
 
-Teaching Assistant for the Computer Programming undergraduate course, instructed by Prof. Suresh Purini. Responsible for preparing coding assigments and labs for 300 students and conducting tutorials and correcting papers for 30 students. <br>
-course: eda <br>
-level: easy
+Since graduating in 2023, I have been involved in academia as a teaching assistant and researcher in the Chemical and Petrochemical Engineering department at the University of Mines and Technology, Ghana. My teaching responsibilities include the following courses:
+
+Courses in the first semester of the academic year
+* CH 257 Organic Chemistry              For a combined class (Petroleum Geosciences and Engineering, Natural Gas Engineering & Petroleum Engineering students) size of 230, instrucuted by Dr. Ato Fanyin-Martin
+* CH 265 Engineering Materials          For a class size of 90 students (Chemical Engineering)
+* RP 375 Petrochemical Synthesis 1      For a class size of 120 students (Petroleum Refining and Petrochemical Engineering)
+* CH 271 Heat Transfer Processes        For a combined class size of 200 students (Chemical Engineering & Petroleum Refining and Petrochemical Engineering)
+
+Courses in the second semester of the academic year
+* CH 170 Fundamental of Chemical Engineering         For a class size of 168 students
+* CH 276 Separation Processes                        For a combined class size of 200 students (Chemical Engineering & Petroleum Refining and Petrochemical Engineering)
+* RP 376 Petrochemical Synthesis 2                   For a class size of 120 students (Petroleum Refining and Petrochemical Engineering)
+
+These courses have allowed me to inspire the next generation of engineers while pursuing my research goals. My teaching style is based on my students' needs, and my diverse background allows me the sensitivity I need to relate to them. I believe I can contribute to my students' personal growth and motivate them to obtain their educational goals.
 
 
 ## Research Mentor
