@@ -21,7 +21,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 
 ## XAI For Combined Cycle Power Plant
 <figure>
-  <img src="/assets/images/Projects/project shap summary results.jpg" width="350px" height="500px" alt="">
+  <img src="/assets/images/Projects/project shap summary results.jpg" width="1000px" alt="">
   <figcaption>project shap summary results
 </figcaption>
 </figure>
