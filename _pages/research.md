@@ -11,12 +11,24 @@ toc_sticky: true
 ---
 
 My work centres on the intersection of chemical engineering and advanced computational techniques, enabling me to optimize systems, reduce inefficiencies, and improve overall productivity. I am continuously seeking new opportunities to integrate cutting-edge technology into chemical engineering for impactful results. Current and past research projects include; the list is unordered and does not reflect project popularity or chronological order.
+- XAI For Combined Cycle Power Plant
 - Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 - Development of Soft Sensor for Bottom Composition in Distillation Column
 - Classification of Waste Products Using Transfer Learning
 - Constrained Optimization of a Heat Exchanger using Python (SciPy)
 - Plant Design for the Production of Ammonia from Isopentane
 - Data-Driven Modeling and Parameter Optimization for Reactor Design
+
+## XAI For Combined Cycle Power Plant
+<figure>
+  <img src="/assets/images/Projects/project shap summary results.jpg" width="350px" height="500px" alt="">
+  <figcaption>project shap summary results
+</figcaption>
+</figure>
+
+In this project, I focused on improving the interpretability of predictive models using Explainable AI techniques. I explored the application of SHAP values to understand the contributions of individual features in a dataset from a combined cycle power plant. The parameters include atmospheric pressure (AP), atmospheric temperature (AT), vacuum pressure (V), relative humidity (RH), and power output (PE).
+
+Full description and process are availale in the code found [here](https://github.com/sakuoko/XAI-For-Combined-Cycle-Power-Plant).
 
 ## Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 
