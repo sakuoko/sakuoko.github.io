@@ -39,7 +39,7 @@ Below is the abstract of my chapter:
 
 This paper explores the application of amino acids in three critical industrial processes: hydration suppression in drilling, hydraulic fracturing, and corrosion inhibition. Amino acids offer promising solutions for improving wellbore stability, enhancing fluid performance, and reducing environmental impact across diverse industrial applications. In drilling operations, amino acids act as effective hydration suppressants, limiting clay swelling and improving mud formulation flexibility. In hydraulic fracturing, amino acid-based friction reducers enhance fracture propagation and increase hydrocarbon recovery rates, particularly in low-permeability gas reservoirs with high clay content. Additionally, amino acids serve as environmentally friendly corrosion inhibitors, replacing traditional hazardous compounds and ensuring regulatory compliance. Through collaborative efforts between academia, industry, and regulatory bodies, the widespread adoption of amino acids can advance sustainability and efficiency in industrial processes.
 
-Related publications: Akuoko, S., Fanyin-Martin, A., (2025), Case Studies on the Use of Amino Acids in the Geo-Energy Industry, In C.B. Bavoh & K.A. Quainoo (Eds.), Amino Acids Applications in the Geoenergy Industry (pp.172-180). CRC Press. https://doi.org/10.1201/9781003502388
+Related publications: Akuoko, S., Fanyin-Martin, A., (2025), Case Studies on the Use of Amino Acids in the Geo-Energy Industry, In C.B. Bavoh & K.A. Quainoo (Eds.), Amino Acids Applications in the Geoenergy Industry (pp.172-180). CRC Press. [https://doi.org/10.1201/9781003502388](https://doi.org/10.1201/9781003502388)
 
 ## Development of Soft Sensor for Bottom Composition in Distillation Column
 
