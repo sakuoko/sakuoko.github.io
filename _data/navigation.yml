@@ -15,5 +15,5 @@ main:
   - title: "Certifications"
     url: /certifications/
     
-  - title: "CV" 
-    url: /CV/
+  # - title: "CV" 
+  #   url: /CV/
