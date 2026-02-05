@@ -28,7 +28,7 @@ My work centres on the intersection of chemical engineering and advanced computa
 
 In this project, I focused on improving the interpretability of predictive models using Explainable AI techniques. I explored the application of SHAP values to understand the contributions of individual features in a dataset from a combined cycle power plant. The parameters include atmospheric pressure (AP), atmospheric temperature (AT), vacuum pressure (V), relative humidity (RH), and power output (PE).
 
-Full description and process are availale in the code found [here](https://github.com/sakuoko/XAI-For-Combined-Cycle-Power-Plant).
+Full description and process are available in the code found [here](https://github.com/sakuoko/XAI-For-Combined-Cycle-Power-Plant).
 
 ## Case Studies on the Use of Amino Acids in the Geo-Energy Industry
 
